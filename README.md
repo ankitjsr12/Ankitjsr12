@@ -2,7 +2,7 @@
 
 
 # 👋 Hi, I'm Ankit Kumari  
-### Frontend Developer | CSE Diploma Student  
+### Frontend Developer 
 
 🎓 Brainwaire University  
 💻 Passionate about building clean & responsive web interfaces  
